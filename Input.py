@@ -1,4 +1,4 @@
-'''
+
 var = input()
 print(var)
 
@@ -8,7 +8,7 @@ print("Your name is", name)
 print(type(name))
 print(type(var))
 
-'''
+
 
 num1 = int(input("Enter First Number"))
 #num1 = int(num1)
